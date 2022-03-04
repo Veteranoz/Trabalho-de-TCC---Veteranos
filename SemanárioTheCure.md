@@ -19,4 +19,4 @@ Determinação do objetivo do projeto e começo de implementação da programaç
 
 4. 28/02 à 04/03
 
-Continuação da implentação da programação em HTML e CSS. Execução do arquivamento e construçãp do Seminário de Bordo.                                                                  
+Continuação da implentação da programação em HTML e CSS. Execução do arquivamento e construção do Seminário de Bordo.                                                                  
