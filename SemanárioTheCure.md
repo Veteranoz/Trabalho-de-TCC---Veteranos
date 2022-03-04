@@ -2,7 +2,8 @@
 
 ---
 
-![](../Downloads/TheCure/TheCure.png)
+![logotipo](https://user-images.githubusercontent.com/100129994/156848699-05107fc7-86ea-4c54-a858-833f096cbfab.jpeg)
+
 
 1. 07/02 à 11/02
 
