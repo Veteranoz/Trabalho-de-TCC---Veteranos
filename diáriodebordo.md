@@ -1,4 +1,4 @@
-# Semanário de Bordo
+# Diário de Bordo
 
 ---
 
