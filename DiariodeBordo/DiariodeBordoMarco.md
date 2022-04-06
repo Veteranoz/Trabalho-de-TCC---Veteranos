@@ -16,7 +16,7 @@ Semana 6 - 11/03 à 15/03
 
 Demos continuidade ao que foi feito na semana anterior, refinando a parte gráfica, além de consertar erros, buscando soluções para micro-problemas. Foi utilizado como referência, a base do site Vitalk, o qual possui proposta parecida em relação a nossa abordagem.
 
-+ [Vitalk](https://www.encurtador.com.br/url-encurtada.php)
++ [Vitalk](https://www.vitalk.com.br/?gclid=EAIaIQobChMI3_D6h5eA9wIVNOVcCh2KoAD-EAAYASAAEgJoxfD_BwE)
 
 ---
 
@@ -32,7 +32,7 @@ Semana 8 - 25/03 à 29/03
 
 Criação das artes relacionadas ao site, por meio da plataforma Photoshop, utilzando como base o símbolo da medicina, representando um apoio relacionado a área de saúde
 
-+ [Photoshop](encurtador.com.br/jtNX2)
++ [Photoshop](https://www.adobe.com/br/products/photoshop/landpa.html?sdid=KQPOM&mv=search&ef_id=EAIaIQobChMI2aGmlZeA9wIViEFIAB3xzAp0EAAYASAAEgK_f_D_BwE:G:s&s_kwcid=AL!3085!3!534509111518!e!!g!!photoshop!188192502!10077842982&gclid=EAIaIQobChMI2aGmlZeA9wIViEFIAB3xzAp0EAAYASAAEgK_f_D_BwE)
 
 
 
