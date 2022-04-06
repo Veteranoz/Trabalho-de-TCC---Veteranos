@@ -5,7 +5,7 @@ Diário de Bordo
 
 Semana 5 - 04/03 à 08/03 
 
-Iniciamos a semana realizando o trabalho das interfaces gráficas buscando proporcionar uma melhor acessibilidade ao usuário, para isso, utilizamos o Bootstrap para criar a página inicial, associada com a descrisção do projeto, além da apresentação dos integrantes e a função do site  
+Iniciamos a semana realizando o trabalho das interfaces gráficas buscando proporcionar uma melhor acessibilidade ao usuário, para isso, utilizamos o Bootstrap para criar a página inicial, associada com a descrisção do projeto, além da apresentação dos integrantes e a função do site.  
 
 
 + [Bootstrap](https://www.w3schools.com/bootstrap/)
