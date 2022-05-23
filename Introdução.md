@@ -10,10 +10,3 @@ As cores nessa perspectiva assumem um lugar de importância no perceber e sentir
 
 Quando usada para um fim, deve estar de acordo com os requerimentos psicológicos e culturais do público a que se destina para que tenha uma ação efetiva e eficiente. Nessa perspectiva, a cor alinhada com os objetivos estratégicos de um serviço, produto, ou material educacional, mergulha o educando em um processo de catalisação de emoções que pode o levar a um estado de relaxamento e maior compreensão do conteúdo(FARINA et al, 2011)
 
-REFERÊNCIAS:
-
-LEÃO, Eliseth Ribeiro, et al. "Uma canção no cuidar: a experiência de intervir com música no hospital." Nursing 82.8 (2005).
-
-Backes, Dirce Stein, et al. "Música: terapia complementar no processo de humanização de uma CTI." Nursing (Säo Paulo) (2003).
-
-Farina, Modesto, Clotilde Perez, and Dorinho Bastos. Psicodinâmica das cores em comunicação. Editora Blucher, 2011.
