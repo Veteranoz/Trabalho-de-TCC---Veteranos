@@ -2,6 +2,7 @@
 
 + [Introdução](https://github.com/Veteranoz/Trabalho-de-TCC---Veteranos/blob/main/Introdu%C3%A7%C3%A3o.md)
 + [Diários de bordo](https://github.com/Veteranoz/Trabalho-de-TCC---Veteranos/blob/main/DiariodeBordo/Menu_diario.md)
++ [Referências](https://github.com/Veteranoz/Trabalho-de-TCC---Veteranos/blob/main/Arquivos%20Referenciais/Refer%C3%AAncias.md)
 
 ## Justificativa do tema e levantamento técnico
 
