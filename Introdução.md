@@ -12,8 +12,8 @@ Quando usada para um fim, deve estar de acordo com os requerimentos psicológico
 
 REFERÊNCIAS:
 
-Leão ER, Bassotti EA, Aquino CR, Canesia AC, BritoRF. Uma canção no cuidar: a experiência de intervir commúsica no hospital. Nursing. 2005;82(8):129-34.
+LEÃO, Eliseth Ribeiro, et al. "Uma canção no cuidar: a experiência de intervir com música no hospital." Nursing 82.8 (2005).
 
-Backes DS, Ddine SC, Oliveira CL, Backes MTS.Música: terapia complementar no processo dehumanização de uma CTI. Nursing. 2003;66(6):37-42.
+Backes, Dirce Stein, et al. "Música: terapia complementar no processo de humanização de uma CTI." Nursing (Säo Paulo) (2003).
 
-FARINA, Modesto; PEREZ, Clotilde; DORINHO Bastos. Psicodinâmica das cores em comunicação. 6.ed. São Paulo: Blucher. 201
+Farina, Modesto, Clotilde Perez, and Dorinho Bastos. Psicodinâmica das cores em comunicação. Editora Blucher, 2011.
