@@ -1,4 +1,7 @@
 # Projeto TCC
+
+[Diários de bordo](https://github.com/Veteranoz/Trabalho-de-TCC---Veteranos/blob/main/DiariodeBordo/Menu_diario.md)
+
 ## Justificativa do tema e levantamento técnico
 
 1. Nomes:
