@@ -21,7 +21,7 @@ Com longos dois anos de pandemia, inúmeras mudanças atingiram as vidas de todo
 
 3. Equipe Desenvolvimento:
 
-Como estamos falando de um site, usamos o "WordPress" que além de fornecer um editor para o site, também oferece um serviço de hospedagem gratuito e será sim, um dos principais usados na criação do nosso trabalho, mesmo que logicamente seja arriscado por conta de nunca termos o usado ao longo do nosso ano letivo. O programa consegue ser bastante intuitivo para iniciantes e também conta com diversas funções muito boa, como por exemplo: Tutoriais, Plugins e widgets. E integrado a ferramenta, temos a tecnologia que possibilita trabalhar com CSS que possibilita a estilização do site criando uma plataforma mais intuitiva e agradável ao usuário.
+Se tratando de um site, usamos o "WordPress" que além de fornecer um editor, também oferece um serviço de hospedagem gratuito e será sim, um dos principais usados na criação do nosso trabalho. O programa consegue ser bastante intuitivo para iniciantes, contando com diversas funções muito boas, como por exemplo: tutoriais, plugins e widgets. Integrado a ferramenta, temos a tecnologia que possibilita trabalhar com CSS que torna possível a criação de uma tecnologia mais agradável ao usuário. 
 
 4. Links para as tecnologias
 
