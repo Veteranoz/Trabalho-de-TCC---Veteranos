@@ -6,6 +6,7 @@ Focamos principalmente na construção de uma melhor homepage.
 Segue imagens:
 
 * ![Primeira imagem](../Imagens/Imagem2.png)
+
 * ![Segunda imagem](../Imagens/Imagem3.png)
 ----
 
