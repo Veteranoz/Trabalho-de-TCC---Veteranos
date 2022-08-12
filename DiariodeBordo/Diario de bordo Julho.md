@@ -14,4 +14,4 @@ Segue imagens do servidor:
 
 ![imagem](../Imagens/MicrosoftTeams-image.png)
 
-![imagem2](../Imagens/MicrosoftTeams-image(2).png)
+![imagem2](../Imagens/MicrosoftTeams-image(1).png)
