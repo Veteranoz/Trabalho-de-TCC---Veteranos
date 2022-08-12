@@ -1,12 +1,11 @@
 # Diário de Bordo Maio 
 ---
-Semana 14 - 09/05 à 14/05 
+Semana 14 e 15 - 09/05 à 20/05 
 
-Algumas imagens do projeto:
+Focamos principalmente na construção de uma melhor homepage. Segue imagens:
 
 ![Primeira imagem](../Imagens/Imagem2.png)
 ![Segunda imagem](../Imagens/Imagem3.png)
-![Terceira imagem](../Imagens/Imagem4.png)
 ----
 
 Semana 15 - 16/05 à 20/05 
