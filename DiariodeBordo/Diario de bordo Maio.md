@@ -4,7 +4,7 @@ Semana 14 - 09/05 à 14/05
 
 Algumas imagens do projeto:
 
-![Primeira imagem](Imagens/imagem.png "Imagem2")
+![Primeira imagem](Imagens/imagem2.png "Imagem2")
 
 ----
 
