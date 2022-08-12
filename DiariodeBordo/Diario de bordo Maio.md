@@ -4,7 +4,7 @@ Semana 14 - 09/05 à 14/05
 
 Algumas imagens do projeto:
 
-![Primeira imagem](Trabalho-de-TCC---Veteranos/Imagens/Imagem2 "Imagem2")
+![Primeira imagem](./Imagens/Imagem2 "Imagem2")
 
 ----
 
