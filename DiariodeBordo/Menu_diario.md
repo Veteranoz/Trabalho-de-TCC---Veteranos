@@ -7,7 +7,7 @@
 * [Diário de Maio](https://github.com/Veteranoz/Trabalho-de-TCC---Veteranos/blob/main/DiariodeBordo/Diario%20de%20bordo%20Maio.md)
 * [Diário de Junho](https://github.com/Veteranoz/Trabalho-de-TCC---Veteranos/blob/main/DiariodeBordo/Diario%20de%20bordo%20Junho.md)
 * [Diário de Julho](https://github.com/Veteranoz/Trabalho-de-TCC---Veteranos/blob/main/DiariodeBordo/Diario%20de%20bordo%20Julho.md)
-* [Diário de Agosto]
+* [Diário de Agosto](https://github.com/Veteranoz/Trabalho-de-TCC---Veteranos/blob/main/DiariodeBordo/Diario%20de%20bordo%20Agosto.md)
 
 
 
