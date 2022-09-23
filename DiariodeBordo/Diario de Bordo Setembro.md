@@ -14,7 +14,7 @@ Semana 27 - 12/09 á 16/09
 
 Criação do domínio do site, para que o mesmo, possa estar no ar. Além da implementação de novos recursos visuais que deixam o site mais navegável e agradável visualmente.
 
-![Imagem 3](../Imagens/Inicio novo.png)
+![Imagem 3](../Imagens/inicio novo.png)
 
 ---
 
